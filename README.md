@@ -1,3 +1,3 @@
 # pythoncourse
-Snippets of python code
+Snippets of python code.
 This is the 100 days challenge python course. 
